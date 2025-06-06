@@ -1,0 +1,152 @@
+{
+  "genetic": {
+    "totalCoverage": 6671,
+    "totalPrice": 2005,
+    "regions": {
+      "north-west": 562,
+      "north-east": 224,
+      "south-west": 824,
+      "south-east": 395
+    },
+    "genes": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  "greedy": {
+    "totalCoverage": 6671,
+    "totalPrice": 2005,
+    "locations": [
+      {
+        "x": 94,
+        "y": 77,
+        "price": 1,
+        "coverage": 672,
+        "region": "north-east"
+      },
+      {
+        "x": 50,
+        "y": 12,
+        "price": 15,
+        "coverage": 347,
+        "region": "south-east"
+      },
+      {
+        "x": 77,
+        "y": 65,
+        "price": 17,
+        "coverage": 222,
+        "region": "north-east"
+      },
+      {
+        "x": 21,
+        "y": 11,
+        "price": 62,
+        "coverage": 799,
+        "region": "south-west"
+      },
+      {
+        "x": 50,
+        "y": 9,
+        "price": 15,
+        "coverage": 113,
+        "region": "south-east"
+      },
+      {
+        "x": 18,
+        "y": 51,
+        "price": 226,
+        "coverage": 954,
+        "region": "south-west"
+      },
+      {
+        "x": 16,
+        "y": 63,
+        "price": 168,
+        "coverage": 600,
+        "region": "north-west"
+      },
+      {
+        "x": 19,
+        "y": 70,
+        "price": 209,
+        "coverage": 734,
+        "region": "north-west"
+      },
+      {
+        "x": 81,
+        "y": 22,
+        "price": 79,
+        "coverage": 235,
+        "region": "south-east"
+      },
+      {
+        "x": 48,
+        "y": 19,
+        "price": 286,
+        "coverage": 605,
+        "region": "south-east"
+      },
+      {
+        "x": 9,
+        "y": 27,
+        "price": 79,
+        "coverage": 167,
+        "region": "south-west"
+      },
+      {
+        "x": 14,
+        "y": 58,
+        "price": 185,
+        "coverage": 388,
+        "region": "north-west"
+      },
+      {
+        "x": 29,
+        "y": 6,
+        "price": 237,
+        "coverage": 451,
+        "region": "south-west"
+      },
+      {
+        "x": 25,
+        "y": 52,
+        "price": 110,
+        "coverage": 149,
+        "region": "south-west"
+      },
+      {
+        "x": 52,
+        "y": 84,
+        "price": 206,
+        "coverage": 214,
+        "region": "north-east"
+      },
+      {
+        "x": 26,
+        "y": 38,
+        "price": 110,
+        "coverage": 21,
+        "region": "south-west"
+      }
+    ]
+  }
+}

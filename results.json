@@ -1,0 +1,29 @@
+{
+  "genetic": {
+    "totalCoverage": 45,
+    "totalPrice": 14,
+    "regions": {
+      "north-west": 14,
+      "north-east": 0,
+      "south-west": 0,
+      "south-east": 0
+    },
+    "genes": [
+      1,
+      0
+    ]
+  },
+  "greedy": {
+    "totalCoverage": 45,
+    "totalPrice": 14,
+    "locations": [
+      {
+        "x": 3,
+        "y": 54,
+        "price": 14,
+        "coverage": 45,
+        "region": "north-west"
+      }
+    ]
+  }
+}

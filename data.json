@@ -1,0 +1,40 @@
+{
+  "locations": [
+    { "x": 10, "y": 90, "price": 200, "coverage": 800 },
+    { "x": 30, "y": 75, "price": 150, "coverage": 600 },
+    { "x": 80, "y": 90, "price": 300, "coverage": 900 },
+    { "x": 70, "y": 20, "price": 250, "coverage": 700 },
+    { "x": 20, "y": 10, "price": 100, "coverage": 500 },
+
+    { "x": 15, "y": 85, "price": 180, "coverage": 750 },
+    { "x": 35, "y": 65, "price": 160, "coverage": 620 },
+    { "x": 85, "y": 95, "price": 320, "coverage": 920 },
+    { "x": 75, "y": 25, "price": 270, "coverage": 710 },
+    { "x": 25, "y": 15, "price": 120, "coverage": 520 },
+
+    { "x": 12, "y": 88, "price": 190, "coverage": 780 },
+    { "x": 32, "y": 70, "price": 140, "coverage": 610 },
+    { "x": 78, "y": 88, "price": 310, "coverage": 910 },
+    { "x": 68, "y": 18, "price": 260, "coverage": 690 },
+    { "x": 22, "y": 12, "price": 110, "coverage": 510 },
+
+    { "x": 5,  "y": 95, "price": 170, "coverage": 790 },
+    { "x": 40, "y": 80, "price": 160, "coverage": 640 },
+    { "x": 90, "y": 85, "price": 330, "coverage": 940 },
+    { "x": 60, "y": 15, "price": 240, "coverage": 680 },
+    { "x": 18, "y": 8,  "price": 105, "coverage": 495 },
+
+    { "x": 28, "y": 60, "price": 150, "coverage": 610 },
+    { "x": 80, "y": 92, "price": 305, "coverage": 890 },
+    { "x": 72, "y": 22, "price": 255, "coverage": 705 },
+    { "x": 38, "y": 18, "price": 130, "coverage": 540 },
+    { "x": 50, "y": 50, "price": 200, "coverage": 650 }
+  ],
+  "constraints": {
+    "maxTotalPrice": 2000,
+    "maxNorthWestRegionPrice": 700,
+    "maxNorthEastRegionPrice": 700,
+    "maxSouthWestRegionPrice": 600,
+    "maxSouthEastRegionPrice": 800
+  }
+}
